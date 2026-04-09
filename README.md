@@ -79,7 +79,7 @@ This project uses a Convolutional Neural Network (CNN) to classify potato leaf d
 ---
 
 ## 👩‍💻 Author
-- Your Name
+- Rachana 
 
 ---
 
